@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84efd358-4c7d-41b8-918f-d423e8d9dfcd" name="Default Changelist" comment="" />
+    <list default="true" id="84efd358-4c7d-41b8-918f-d423e8d9dfcd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,14 +17,83 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="11850">
+            <state relative-caret-position="450">
               <caret line="839" column="29" selection-start-line="839" selection-start-column="29" selection-end-line="839" selection-end-column="29" />
               <folding>
                 <element signature="e#7989#7990#0" expanded="true" />
                 <element signature="e#8017#8018#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/SumanJavaInterviewPractice/Misc/Algorithms/MergeSortAlgo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="14">
+              <caret line="41" column="7" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/SumanJavaInterviewPractice/Misc/java8lambda/Firstlambda.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/SumanJavaInterviewPractice/Misc/StringsQuestions/TwoRotatingStringsMatch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/SumanJavaInterviewPractice/Misc/PrintAllAscii.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/SumanJavaInterviewPractice/Misc/PermutationString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/SumanJavaInterviewPractice/Misc/SuperClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="148">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="e#148#149#0" expanded="true" />
+                <element signature="e#172#173#0" expanded="true" />
+                <element signature="e#250#251#0" expanded="true" />
+                <element signature="e#274#275#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -60,6 +131,14 @@
     <dirStrings>
       <dir>$PROJECT_DIR$/src/main/java/mymockitoproject/Misc</dir>
     </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Feature1" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -105,6 +184,11 @@
         <option value="$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/java8lambda/Firstlambda.java" />
         <option value="$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/MyLinkedList.java" />
         <option value="$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/Algorithms/MergeSortAlgo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SumanJavaInterviewPractice/Misc/Algorithms/MergeSortAlgo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SumanJavaInterviewPractice/Misc/java8lambda/Firstlambda.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SumanJavaInterviewPractice/Misc/StringsQuestions/TwoRotatingStringsMatch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SumanJavaInterviewPractice/Misc/PrintAllAscii.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SumanJavaInterviewPractice/Misc/SuperClass.java" />
       </list>
     </option>
   </component>
@@ -113,6 +197,7 @@
     <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -144,6 +229,23 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="mockitopractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mockitopractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="SumanJavaInterviewPractice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mockitopractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mockitopractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="SumanJavaInterviewPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="Misc" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -154,7 +256,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549522062957" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549574550184" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -190,7 +292,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MergeSortAlgo">
+  <component name="RunManager" selected="Application.SubClass">
     <configuration name="Firstlambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="mymockitoproject.Misc.java8lambda.Firstlambda" />
       <module name="SumanJavaInterviewPractice" />
@@ -204,21 +306,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSortAlgo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mymockitoproject.Misc.Algorithms.MergeSortAlgo" />
-      <module name="SumanJavaInterviewPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="mymockitoproject.Misc.Algorithms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mymockitoproject.Misc.MyLinkedList" />
+    <configuration name="PermutationString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mymockitoproject.Misc.PermutationString" />
       <module name="SumanJavaInterviewPractice" />
       <extension name="coverage">
         <pattern>
@@ -230,12 +319,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PriorityQueueSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mymockitoproject.Misc.PriorityQueueSolution" />
+    <configuration name="PrintAllAscii" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumanJavaInterviewPractice.Misc.PrintAllAscii" />
       <module name="SumanJavaInterviewPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mymockitoproject.Misc.*" />
+          <option name="PATTERN" value="SumanJavaInterviewPractice.Misc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -243,12 +332,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticBlockExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mymockitoproject.Misc.StaticBlockExample" />
+    <configuration name="SubClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumanJavaInterviewPractice.Misc.SubClass" />
       <module name="SumanJavaInterviewPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mymockitoproject.Misc.*" />
+          <option name="PATTERN" value="SumanJavaInterviewPractice.Misc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoRotatingStringsMatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumanJavaInterviewPractice.Misc.StringsQuestions.TwoRotatingStringsMatch" />
+      <module name="SumanJavaInterviewPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SumanJavaInterviewPractice.Misc.StringsQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -258,11 +360,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MergeSortAlgo" />
-        <item itemvalue="Application.MyLinkedList" />
+        <item itemvalue="Application.SubClass" />
+        <item itemvalue="Application.PermutationString" />
+        <item itemvalue="Application.PrintAllAscii" />
+        <item itemvalue="Application.TwoRotatingStringsMatch" />
         <item itemvalue="Application.Firstlambda" />
-        <item itemvalue="Application.PriorityQueueSolution" />
-        <item itemvalue="Application.StaticBlockExample" />
       </list>
     </recent_temporary>
   </component>
@@ -280,6 +382,7 @@
       <workItem from="1548118772752" duration="33598000" />
       <workItem from="1548825947821" duration="11898000" />
       <workItem from="1548973996913" duration="16591000" />
+      <workItem from="1549522146516" duration="4801000" />
     </task>
     <servers />
   </component>
@@ -316,12 +419,22 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84274000" />
+    <option name="totallyTimeSpent" value="89075000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2639485" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -331,17 +444,17 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3477707" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3477707" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3808917" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32866243" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3299363" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32866243" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32866243" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.3299363" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -448,59 +561,7 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mockito/mockito-core/2.23.4/mockito-core-2.23.4.jar!/org/mockito/Mockito.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="673">
-          <caret line="67" column="21" lean-forward="true" selection-start-line="67" selection-start-column="21" selection-end-line="67" selection-end-column="21" />
-          <folding>
-            <element signature="e#2857#2858#0" expanded="true" />
-            <element signature="e#2915#2916#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/MyService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="79" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="79" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="4308" column="30" selection-start-line="4308" selection-start-column="30" selection-end-line="4308" selection-end-column="30" />
-          <folding>
-            <element signature="e#200691#200692#0" expanded="true" />
-            <element signature="e#200732#200733#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/MyServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="14" column="47" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/MyServiceImpl.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Map.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3348">
@@ -508,141 +569,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/Anagram.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1200">
-          <caret line="80" column="20" selection-start-line="80" selection-start-column="12" selection-end-line="80" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/ArraysTwoContains.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="44" lean-forward="true" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/CheckHasMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-90">
-          <caret line="35" column="6" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/CommonElementsArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/DuplicateCharacters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/Fibonnaci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/FileCharacterWordsLines.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-150">
-          <caret line="9" column="61" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/FileWriterAppendText.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/LongestString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/Palindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/PermutationString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="30" selection-start-line="17" selection-start-column="15" selection-end-line="18" selection-end-column="30" />
-          <folding>
-            <element signature="method#swap#0;class#PermutationString#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/QuickSortClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-201">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/ReverseString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="566">
-          <caret line="61" column="12" selection-start-line="61" selection-start-column="12" selection-end-line="61" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/SortCustomString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/TwoSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-48">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/Anagram.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/ArraysTwoContains.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/CheckHasMap.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/CommonElementsArray.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/DuplicateCharacters.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/Fibonnaci.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/FileCharacterWordsLines.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/FileWriterAppendText.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/LongestString.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/Palindrome.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/PermutationString.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/QuickSortClass.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/ReverseString.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/SortCustomString.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/TwoSum.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/mymockitoproject/AppTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -663,98 +604,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/Apple1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="35" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="35" />
-          <folding>
-            <element signature="e#200#201#0" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/MergeSortedArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/LambdaExpressions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/regularexpressions/FirstRegEx.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/PerfectNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/BasicSingleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/Search/BinarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/java8streams/StreamFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="36" column="10" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/FindCommonElements.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/BasicEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/ImplementStackArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/Apple1.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/MergeSortedArrays.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/LambdaExpressions.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/regularexpressions/FirstRegEx.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/PerfectNumber.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/BasicSingleton.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/Search/BinarySearch.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/java8streams/StreamFilter.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/FindCommonElements.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/BasicEnum.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/ImplementStackArray.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="545">
@@ -762,22 +622,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/PriorityQueueSolution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="57" column="33" selection-start-line="57" selection-start-column="33" selection-end-line="57" selection-end-column="33" />
-          <folding>
-            <element signature="e#475#476#0" expanded="true" />
-            <element signature="e#507#508#0" expanded="true" />
-            <element signature="e#537#538#0" expanded="true" />
-            <element signature="e#569#570#0" expanded="true" />
-            <element signature="e#594#595#0" expanded="true" />
-            <element signature="e#624#625#0" expanded="true" />
-            <element signature="e#1011#1022#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/PriorityQueueSolution.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Collection.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -792,54 +637,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/ImplementLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="50" selection-start-line="42" selection-start-column="50" selection-end-line="42" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/java8lambda/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-          <folding>
-            <element signature="e#181#182#0" expanded="true" />
-            <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#305#306#0" expanded="true" />
-            <element signature="e#340#341#0" expanded="true" />
-            <element signature="e#371#372#0" expanded="true" />
-            <element signature="e#419#420#0" expanded="true" />
-            <element signature="e#459#460#0" expanded="true" />
-            <element signature="e#486#487#0" expanded="true" />
-            <element signature="e#512#513#0" expanded="true" />
-            <element signature="e#547#548#0" expanded="true" />
-            <element signature="e#577#578#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/StaticBlockExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/java8lambda/Firstlambda.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/ImplementLinkedList.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/java8lambda/Person.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/StaticBlockExample.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/java8lambda/Firstlambda.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/stream/Stream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26">
@@ -858,27 +659,77 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/MyLinkedList.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/MyLinkedList.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/Algorithms/MergeSortAlgo.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/SumanJavaInterviewPractice/Misc/MergeSortedArrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mymockitoproject/Misc/Algorithms/MergeSortAlgo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="-18">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11850">
+        <state relative-caret-position="450">
           <caret line="839" column="29" selection-start-line="839" selection-start-column="29" selection-end-line="839" selection-end-column="29" />
           <folding>
             <element signature="e#7989#7990#0" expanded="true" />
             <element signature="e#8017#8018#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SumanJavaInterviewPractice/Misc/Algorithms/MergeSortAlgo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="41" column="7" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SumanJavaInterviewPractice/Misc/java8lambda/Firstlambda.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SumanJavaInterviewPractice/Misc/StringsQuestions/TwoRotatingStringsMatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SumanJavaInterviewPractice/Misc/PrintAllAscii.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SumanJavaInterviewPractice/Misc/PermutationString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SumanJavaInterviewPractice/Misc/SuperClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#148#149#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
           </folding>
         </state>
       </provider>

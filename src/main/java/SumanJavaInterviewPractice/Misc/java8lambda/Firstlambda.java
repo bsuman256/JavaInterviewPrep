@@ -2,17 +2,16 @@ package mymockitoproject.Misc.java8lambda;
 
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.LinkedList;
 import java.util.List;
 import java.util.stream.Collectors;
 
 public class Firstlambda {
     public static void main(String[] args) {
 
-        List<Person> personList = new ArrayList<>();
-        personList.add(new Person("Suman","Bharath",30));
-        personList.add(new Person("Swathi","Musunuri",28));
-        personList.add(new Person("Abhiram","Bharath",1));
+        List<mymockitoproject.Misc.java8lambda.Person> personList = new ArrayList<>();
+        personList.add(new mymockitoproject.Misc.java8lambda.Person("Suman","Bharath",30));
+        personList.add(new mymockitoproject.Misc.java8lambda.Person("Swathi","Musunuri",28));
+        personList.add(new mymockitoproject.Misc.java8lambda.Person("Abhiram","Bharath",1));
 
         //1. Sort List
 
@@ -23,7 +22,8 @@ public class Firstlambda {
 
         //3. Print all person whose Lastname Starts with B
         System.out.println("\n ONly People whose lastname startws with 'B' ");
-        List<Person> newList =personList.stream().filter((f)->f.getLastName().startsWith("B")).collect(Collectors.toList());
+
+        List<mymockitoproject.Misc.java8lambda.Person> newList =personList.stream().filter((f)->f.getLastName().startsWith("B")).collect(Collectors.toList());
         newList.forEach(System.out::println);
 
 
